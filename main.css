@@ -77,3 +77,14 @@ h1 {
     font-family: 'hashtagregular';
     font-weight: normal;
 }
+@font-face {
+    font-family: 'comicsansms';
+    src: url('fonts/comic.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+p {
+    font-family: 'comicsansms';
+    font-weight: normal;
+}
+
