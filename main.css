@@ -69,8 +69,11 @@ body {
 }
 @font-face {
     font-family: 'hashtagregular';
-    src: url('https://natesway.github.io/hashtag-webfont.woff2') format('woff2'),
-         url('https://natesway.github.io/hashtag-webfont.woff') format('woff');
+    src: url('fonts/Hashtag.ttf');
     font-weight: normal;
     font-style: normal;
+}
+h1 {
+    font-family: 'hashtagregular';
+    font-weight: normal;
 }
