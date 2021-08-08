@@ -69,7 +69,7 @@ body {
 }
 @font-face {
     font-family: 'hashtagregular';
-    src: url('fonts/Hashtag.ttf');
+    src: url('../fonts/Hashtag.ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -79,7 +79,7 @@ h1 {
 }
 @font-face {
     font-family: 'comicsansms';
-    src: url('fonts/comic.ttf');
+    src: url('../fonts/comic.ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -89,7 +89,7 @@ p {
 }
 @font-face {
     font-family: 'natsuki';
-    src: url('fonts/Ammys_Handwriting.ttf');
+    src: url('../fonts/Ammys_Handwriting.ttf');
     font-weight: normal;
     font-style: normal;
 }
