@@ -1,13 +1,5 @@
-@font-face {
-    font-family: Whitney;
-    src: url("../fonts/Whitney.ttf") format("truetype");
-}
-@font-face {
-    font-family: WhitneyBold;
-    src: url("../fonts/Whitney-Bold.ttf") format("truetype");
-}
 #menu-bar {
-    font-family: Whitney !important;
+    font-family: hashtagregular !important;
     width: 100%;
     margin: 0px 0px 0px 0px;
     padding: 6px 6px 4px 6px;
@@ -28,7 +20,7 @@
 #menu-bar section {
     color: #7289da;
     text-align: center;
-    font-family: WhitneyBold;
+    font-family: hashtagregular;
     padding: 10px 0px 10px 0px !important;
 }
 
@@ -57,7 +49,7 @@
 }
 
 #menu-bar .active a {
-    font-family: WhitneyBold;
+    font-family: hashtagregular;
 }
 
 #menu-bar .active a,
@@ -76,7 +68,7 @@
 #menu-bar ul a:hover {
     background-color: #7289DA !important;
     color: #FFFFFF !important;
-    font-family: WhitneyBold;
+    font-family: hashtagregular;
     transform: scale(1.05);
 }
 
@@ -154,7 +146,7 @@ html[xmlns] #menu-bar {
     padding: 10px 10px;
     line-height: 15px;
     color: #fff;
-    font-family: Whitney;
+    font-family: hashtagregular;
     font-size: 12px;
     display: block;
     text-align: center;
