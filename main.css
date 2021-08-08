@@ -54,3 +54,16 @@ body {
   --btnBg: var(--white);
   --btnFontColor: var(--black);
 }
+.post {
+    margin-top: 0.5em;
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: center;
+}
+.post p1{
+    max-width: 1200px;
+    padding: .5em;
+    text-align: justify;
+    margin: 0;
+    top: 1.25em;
+}
