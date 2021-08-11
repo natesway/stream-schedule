@@ -1,6 +1,6 @@
 function check(form) {
-    username = new Array("admin1", "admin2", "betatester");
-    password = new Array("admin1", "admin2", "BETA123");
+    username = new Array("betatester", "admin2", "betatester");
+    password = new Array("BETA123", "admin2", "BETA123");
 
 	if(form.userid.value == username[0] && form.pswrd.value == password[0]||form.userid.value == username[1] && form.pswrd.value == password[1]) {
 		location.replace('../html/secret.html')/* The Administrator homepage */
