@@ -8,6 +8,6 @@ function newuser(form) {
 		alert("Hey Beta Testers! Username - 'members', password - 'ewbuccclub'"))/* Member username and password*/
 	}
 	else {
-		alert("Incorrect code. Please re-try or as natesway4 for the beta code again!.")/* No such user */
+		alert("Incorrect code. Please re-try or ask natesway4 for the beta code again!.")/* No such user */
 	}
 }
