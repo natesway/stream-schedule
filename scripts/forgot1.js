@@ -1,5 +1,5 @@
 function password(form) {
-	username = new Array("admin1", "admin2", "members");
+	username = new Array("admin1", "admin2", "betatester");
 
 	if(form.userid.value == username[0]) {
 		alert("Admin passwords cannot be reset. Please contact your Administrator to recover your password")/* Admin */
