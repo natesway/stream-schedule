@@ -1,4 +1,4 @@
 var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 if (isMobile) {
-  /* your code here */
+ location.href = 'mobile.html';
 }
