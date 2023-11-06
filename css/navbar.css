@@ -1,5 +1,5 @@
 #menu-bar {
-    font-family: hashtagregular !important;
+    font-family: ammyhandwrie !important;
     width: 100%;
     margin: 0px 0px 0px 0px;
     padding: 6px 6px 4px 6px;
@@ -20,7 +20,7 @@
 #menu-bar section {
     color: #7289da;
     text-align: center;
-    font-family: hashtagregular;
+    font-family: blanka;
     padding: 10px 0px 10px 0px !important;
 }
 
@@ -49,7 +49,7 @@
 }
 
 #menu-bar .active a {
-    font-family: hashtagregular;
+    font-family: blanka;
 }
 
 #menu-bar .active a,
@@ -68,7 +68,7 @@
 #menu-bar ul a:hover {
     background-color: #7289DA !important;
     color: #FFFFFF !important;
-    font-family: hashtagregular;
+    font-family: blanka;
     transform: scale(1.05);
 }
 
@@ -146,7 +146,7 @@ html[xmlns] #menu-bar {
     padding: 10px 10px;
     line-height: 15px;
     color: #fff;
-    font-family: hashtagregular;
+    font-family: blanka;
     font-size: 12px;
     display: block;
     text-align: center;
