@@ -68,32 +68,22 @@ body {
     top: 1.25em;
 }
 @font-face {
-    font-family: 'hashtagregular';
+    font-family: 'hashtag';
     src: url('fonts/Hashtag.ttf');
     font-weight: normal;
     font-style: normal;
 }
-h1 {
-    font-family: 'hashtagregular';
+h1,h2,h3 {
+    font-family: 'hashtag';
     font-weight: normal;
 }
 @font-face {
-    font-family: 'comicsansms';
-    src: url('fonts/comic.ttf');
-    font-weight: normal;
-    font-style: normal;
-}
-p {
-    font-family: 'comicsansms';
-    font-weight: normal;
-}
-@font-face {
-    font-family: 'natsuki';
+    font-family: 'ammyshandwriting';
     src: url('fonts/Ammys_Handwriting.ttf');
     font-weight: normal;
     font-style: normal;
 }
-a {
-    font-family: 'natsuki';
+p {
+    font-family: 'ammyshandwriting';
     font-weight: normal;
 }
